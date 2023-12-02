@@ -1,5 +1,7 @@
 # VIS Game Boy DMG 2.0
 
+![image](images/boards.png)
+
 This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Essentially this is a gameboy DMG having:
 - a built-in lipo power board with charger
 - analog power and button RGB LEDs
