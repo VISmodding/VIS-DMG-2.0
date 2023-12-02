@@ -38,6 +38,14 @@ I remember you that all the tactile switches must be soldered with the orientati
 
 **To be continued
 
+**WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
+
+**SUGGESTED ITEMS**: I suggest using a 5v 2A USB-C charger with the adapter that can be purchased here [Link Aliexpress](https://www.aliexpress.us/item/2255800098767754.html?spm=a2g0o.order_list.order_list_main.35.f4763696ab50XM&gatewayAdapt=ita2usa4itemAdapt)
+
+Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
+
+**NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without losing the game in progress!!!
+
 ## Credits
 
   - [Bucket Mouse](https://github.com/MouseBiteLabs/) for the [DMGC](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) project from which I get the RGB LEDs idea, the correct position of some holes, the audio amplifier location and the tactile buttons model
