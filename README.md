@@ -56,6 +56,14 @@ Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in thi
 
   - [Gekkio](https://github.com/Gekkio/) for the [DMG](https://github.com/Gekkio/gb-schematics/tree/main/DMG-CPU-06) schematics
 
+## FAQs
+
+link [here](FAQs.md).
+
+## Troubleshooting
+
+link [here](troubleshooting.md).
+
 ## Acknowledgements
 
 I would like to thank Mathijs (the creator of SYF Game Gear PCBs) for his several suggestions, schematics, and help in this project. I would like to thank also Luke from Retrosix for some usefull suggestions.
