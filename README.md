@@ -1,7 +1,14 @@
 # VIS Game Boy DMG 2.0
 
-This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Several exisisting DMG mods are included:
-- ....
+This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Essentially this is a gameboy DMG having:
+- a built-in lipo power board with charger
+- analog power and button RGB LEDs
+- tactile switches
+- this version only support IPS screens and not the original screen with the original front PCB
+- 1 watt audio speaker support
+- a cool design in which the front view of the console is totally covered by the PCBs 
+- mainboard and IPS board are 4-layer PCBs in which analog and digital lines are kept separated in order to minimize audio noise (separated analog/digital/power ground are kept in this version. They are connected only into a single point). Clearly audio noise cannot be completely removed since the CPU accept only an unique 5v line (without a separated analog input for the audio). Anyway, the low audio noise in this version probably is the cleaner audio you can have by using a lipo battery and the high volume provided by 1 watt speaker.
+
 ## Warning: 
 
 <ins>Mainboard is not tested. Its prototype works after some manual fixes. These fixes then was applied to the production file. Hence, it should work but I cannot ensure it</ins>
