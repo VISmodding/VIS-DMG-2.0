@@ -18,7 +18,7 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 When you are sure on the power board installation you can proceed to populate all the boards. See in this case also the [setup video DMG v1](https://youtu.be/e4qCekoWYW4) to understand how solder the IPS wheele and the audio taller.
 
-I remember you that tactile switches must be soldered as shown in the following image 
+I remember you that all the tactile switches must be soldered with the orientation shown in the following old image 
 
 ![image](images/buttons_orientation.jpg)
 
