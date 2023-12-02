@@ -12,7 +12,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 ## Instructions
 
-Start by soldering firstly the U3 boost Ic and check solder continuity/no bridges by using the zoom in the following image. Then, populate all the power board and test the 3.3v and 5v lines (see the image) and also test the charging circuit as explained in the [setup video](https://youtu.be/e4qCekoWYW4) of previous DMG version.
+Start by soldering firstly the U3 boost Ic and check solder continuity/no bridges by using the zoom in the following image. Then, populate all the power board and test the 3.3v and 5v lines (see the image) and also test the charging circuit as explained in the [setup video](https://youtu.be/e4qCekoWYW4) of previous DMG version. Note that, for the charger, you can use in this version the SMD LEDs (green and red) or the 3mm LEDs (they are usefull if you don't use a tranpsarent shell. Hence you can make 2 holes and put properly the LEDs in order to see lights when charging).
 
 ![image](images/01_PB_popul.png)
 
