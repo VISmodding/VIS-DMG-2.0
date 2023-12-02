@@ -12,17 +12,21 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 ## Instructions
 
-**Videos and instructions will be added in the next days... join Mouse Bit Lab discord server to get some additional info.
+Start by soldering firstly the U3 boost Ic and check solder continuity/no bridges by using the zoom in the following image. Then, populate all the power board and test the 3.3v and 5v lines (see the image) and also test the charging circuit as explained in the [setup video](https://youtu.be/e4qCekoWYW4) of previous DMG version.
+
+![image](images/01_PB_popul.png)
+
+**To be continued
 
 ## Credits
 
-[Bucket Mouse](https://github.com/MouseBiteLabs/) for the [DMGC](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) project from which I get the RGB LEDs idea, the correct position of some holes, the audio amplifier location and the tactile buttons model
+  - [Bucket Mouse](https://github.com/MouseBiteLabs/) for the [DMGC](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) project from which I get the RGB LEDs idea, the correct position of some holes, the audio amplifier location and the tactile buttons model
 
-[consolesandcasks or Deceptive thinker](https://github.com/consolesandcasks) for another [Heavy CPU MGB](https://github.com/ConsolesandCasks/CPU-MGB-Heavy) project that I referenced and utilized to update the actual DC Jack
+  - [consolesandcasks or Deceptive thinker](https://github.com/consolesandcasks) for another [Heavy CPU MGB](https://github.com/ConsolesandCasks/CPU-MGB-Heavy) project that I referenced and utilized to update the actual DC Jack
 
-[Kamicane](https://github.com/kamicane/) for the [Super DMG](https://github.com/kamicane/Super-DMG-01) project from wich I get the audio board shape
+  - [Kamicane](https://github.com/kamicane/) for the [Super DMG](https://github.com/kamicane/Super-DMG-01) project from wich I get the audio board shape
 
-[Gekkio](https://github.com/Gekkio/) for the [DMG](https://github.com/Gekkio/gb-schematics/tree/main/DMG-CPU-06) schematics
+  - [Gekkio](https://github.com/Gekkio/) for the [DMG](https://github.com/Gekkio/gb-schematics/tree/main/DMG-CPU-06) schematics
 
 ## Acknowledgements
 
