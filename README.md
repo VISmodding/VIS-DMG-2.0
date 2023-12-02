@@ -23,7 +23,7 @@ I would like to thank Mathijs (the creator of SYF Game Gear PCBs) for his severa
 
 ## Support VIS projects
 
-I have several stuffs in mind, but since developing these things has a high cost in materials and prototypes, a little [PayPal](https://www.paypal.com/donate/?hosted_button_id=8XGWMZW3D3DQE) donation is appreciated.
+I have several stuffs in mind, but since developing these things has a high cost in materials and prototypes, a little [PayPal](https://www.paypal.com/donate/?hosted_button_id=64CARRQYFEZYL) donation is appreciated.
 
 ## Contacts
 
