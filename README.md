@@ -46,7 +46,9 @@ I remember you that all the tactile switches must be soldered with the orientati
 
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
 
-**SUGGESTED ITEMS**: I suggest using a 5v 2A USB-C charger with the 2A cable USB adapter (I suggest the right angle version) that can be purchased here [Link Aliexpress](https://www.aliexpress.us/item/2255800098767754.html?spm=a2g0o.order_list.order_list_main.35.f4763696ab50XM&gatewayAdapt=ita2usa4itemAdapt)
+**SUGGESTED ITEMS**: I suggest using a 5v 2A USB-C charger with the 2A cable USB adapter (I suggest the right angle version) that can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/4000285082506.html).
+
+If you decide to use the audio connector PCB you can buy the 2.0 mm pitch headers from here [Link Aliexpress](https://www.aliexpress.com/item/4000694199194.html).
 
 Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
 
