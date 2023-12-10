@@ -33,6 +33,6 @@ Produce the OSD v5 IPS LCD bracket PCB with 1 mm or less thickness (I produced m
 
 ## Audio connector PCB
 
-Produce the Audio connector PCB with 1 mm or less thickness
+Produce the Audio connector PCB with 1 mm or less thickness.
 
 ![image](images/audio_connector.png)
