@@ -34,6 +34,7 @@ Produce the OSD v5 IPS LCD bracket PCB with 1 mm or less thickness (I produced m
 ## IPS wheele PCB (2 layers PCB)
 
 Produce the IPS wheele PCB with 1 mm or 1.2 mm thickness. 
+
 ![image](images/IPS_wheele.png)
 
 ## Audio connector PCB (2 layers PCB)
