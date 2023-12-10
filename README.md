@@ -13,7 +13,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 ## Warning: 
 
-<ins>Mainboard is not tested. Its prototype works after some manual fixes. These fixes then was applied to the production file. Hence, it should work but I cannot ensure it</ins>
+** PCBs after some fixes are not tested yet. Until you see this warning means that I have not tested them yet
 
 ## Disclaimer
 
