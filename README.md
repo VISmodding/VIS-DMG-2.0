@@ -59,7 +59,7 @@ Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in thi
 You can regulate the brightness of the RGB LEDs by changing the resistors value. I put in the BOM the value that I use but you can change them. 
 The LEDs are in parallel so a burned LED will not affect the others. The schematic is very simple and it is the following
 
-![image](images/RGB_LED_circuit.jpg)
+![image](images/RGB_LED_circuit.png)
 
 ## Credits
 
