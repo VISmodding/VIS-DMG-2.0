@@ -31,6 +31,11 @@ Produce the IPS front PCB with 1 mm or 1.2 mm thickness (I suggest ENIG surface 
 Produce the OSD v5 IPS LCD bracket PCB with 1 mm or less thickness (I produced mine with 1 mm but then there is the need to shorten by sanding or by using a dremel the welding terminals). 
 ![image](images/IPS_bracket.png)
 
+## IPS wheele PCB (2 layers PCB)
+
+Produce the IPS wheele PCB with 1 mm or 1.2 mm thickness. 
+![image](images/IPS_wheele.png)
+
 ## Audio connector PCB (2 layers PCB)
 
 Produce the Audio connector PCB with 1 mm or less thickness.
