@@ -24,15 +24,15 @@ Produce Audio Jack raiser PCB with 1.6 mm thickness. If producer contact you by 
 ## IPS front PCB
 
 Produce the IPS front PCB with 1 mm or 1.2 mm thickness (I suggest ENIG surface finish for better buttons feeling). 
-![image](images/ips_front.png) ![image](images/IPS_PCB.png)
+![image](images/IPS_PCB.png)
 
 ## OSD v5 IPS LCD bracket PCB
 
 Produce the OSD v5 IPS LCD bracket PCB with 1 mm or less thickness (I produced mine with 1 mm but then there is the need to shorten by sanding or by using a dremel the welding terminals). 
-![image](images/ips_front.png) ![image](images/IPS_bracket.png)
+![image](images/IPS_bracket.png)
 
 ## Audio connector PCB
 
 Produce the Audio connector PCB with 1 mm or less thickness
 
-![image](images/ips_front.png) ![image](images/audio_connector.png)
+![image](images/audio_connector.png)
