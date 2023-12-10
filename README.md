@@ -21,7 +21,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 ## Boards compatibility
 
-  - Audio board is not compatible with exisisting gameboy boards. Since in this version audio amplifier is on the mainboard the audio board is not compatible also with my previous gameboy.
+  - Audio board is not compatible with exisisting gameboy boards. Since in this version audio amplifier is on the mainboard the audio board is not compatible also with my previous gameboy. Also the new audio taller is not compatible with the previous gameboy version. In few words, don't mix production files of this realease with those of the previous gameboy release.
   - Other IPS boards can be used with this realese but the following jumpers must be left open. In any case the speaker must be always connected to the audio PCB and not on the IPS PCB.
 
 ![image](images/02_jumpers.png)
