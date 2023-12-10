@@ -13,7 +13,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 ## Warning: 
 
-** PCBs after some fixes are not tested yet. Until you see this warning means that I have not tested them yet
+**PCBs after some fixes are not tested yet. Until you see this warning means that I have not tested them yet.**
 
 ## Disclaimer
 
