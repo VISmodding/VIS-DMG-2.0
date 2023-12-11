@@ -61,6 +61,12 @@ The LEDs are in parallel so a burned LED will not affect the others. The schemat
 
 ![image](images/RGB_LED_circuit.png)
 
+## RGB LEDs color
+
+By using the 3 switches (one for RED, one for BLUE and one for GREEN) you can choose between 8 different colors. The combinations are the following.
+
+![image](images/RGB_colors.png)
+
 ## Credits
 
   - [Bucket Mouse](https://github.com/MouseBiteLabs/) for the [DMGC](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) project from which I get the RGB LEDs idea, the correct position of some holes, the audio amplifier location and the tactile buttons model
