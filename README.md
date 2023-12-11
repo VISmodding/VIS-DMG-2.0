@@ -42,6 +42,10 @@ I remember you that all the tactile switches must be soldered with the orientati
 
 ![image](images/buttons_orientation.jpg)
 
+The reverse mounting RGB LEDs orientation is the following
+
+![image](images/RGB_led_ori.jpg)
+
 **To be continued
 
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
