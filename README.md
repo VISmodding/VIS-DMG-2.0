@@ -77,9 +77,13 @@ When mounting the IPS PCB into the shell keep in mind the suggestions shown in t
 
 ![image](images/IPS_PCB_wires_screw.png)
 
+To regulate the contrast wheel position please referr to the following image.
+
+![image](images/contrast_wheel_gap.png)
+
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
-**To be continued
+**PCB audio connector will be added when I will receive the audio connector PCB
 
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
 
