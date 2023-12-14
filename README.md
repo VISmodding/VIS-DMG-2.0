@@ -44,7 +44,8 @@ Other **optional components to desolder** from a donor console are:
   - If you decide to use the **audio connector PCB** you can buy the 2.0 mm pitch headers from here [Link Aliexpress](https://www.aliexpress.com/item/4000694199194.html).
   - I suggest to use **full silicone buttons from Kitsch-Bent** as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
   - **Acrylic bars for the power LED (3mm)** can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/1005005626315979.html).
-    
+  - **flat connectors 21 pin pitch 1.25mm** if you don't find them you can simply buy the 22 pin version (clearly also a 22 pin cable) and use them by leaving unsoldered one pin on both the mainboard and the IPS board (in doing this you have to leave unsoldered the first pin on a board and the last pin of the other one).
+
 ## Boards compatibility
 
   - Audio board is not compatible with exisisting gameboy boards. Since in this version audio amplifier is on the mainboard the audio board is not compatible also with my previous gameboy. Also the new audio taller is not compatible with the previous gameboy version. In few words, don't mix production files of this realease with those of the previous gameboy release.
