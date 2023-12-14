@@ -14,7 +14,7 @@ You can use the original Gameboy speaker or 1 Watt 8 Ohm speaker (23 mm diameter
 
 ## Can the gain of the speaker be controlled?
 
-Yes, on the audio board, I use **R2=R4=10 kΩ for the original speaker** and **R2=R4=30 kΩ for the 1W speaker**. Hence, by increasing the value of R2 and R4, audio power increases; otherwise, it decreases.
+Yes, on the mainboard, I use **R53=R56=10 kΩ for the original speaker** and **R53=R56=30 kΩ for the 1W speaker**. Hence, by increasing the value of R53 and R56, audio power increases; otherwise, it decreases.
 
 ## How much power does the power board provide?
 
