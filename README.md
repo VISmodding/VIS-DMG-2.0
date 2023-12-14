@@ -20,6 +20,31 @@ See the begininng of the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) to
 
 **This is a DIY project for electronic enthusiasts. For this reason, I am not responsible for any damage incurred while attempting this project or after completion of the project. You alone accept all risk since you are 100% liable for damage to yourself or your property.**
 
+## Required Donor parts
+
+In this project, the **strictly required donor parts** are only 
+  - the **CPU** (that can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter).
+  - the **link-port** (that can be sourced from a donor DMG mainboard or from a 4-player adapter DMG-07).
+
+Other **optional components to desolder** from a donor console are:
+  - **RAM** chips (can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter) or the Alliance AS6C6264-55SIN RAM chips can be purchased.
+  - **Card slot connector, volume wheel, and quartz oscillator** can be sourced from a donor DMG mainboard or can be simply purchased on Aliexpress.
+  - **Power switch** can be sourced from a donor DMG mainboard, or a brand new switch can be purchased at any electronic components shop (see BOM file).
+
+## Required Parts to purchase or reuse
+
+  - **All the electronic components** reported in the BOM file.
+  - **Housing DMG shell case** (optional if you already have one).
+  - **IPS LCD kit** (optional if you want to use the original front PCB). If you want to use the VIS front PCB, you have to buy the v4 or v5 OSD version (see the FAQs [here](FAQs.md) for more details). You can find (in the files of this project) the 3D model of the LCD bracket (IPS v5). You can simply 3D print it (I suggest transparent), and then you can prepare it with sandpaper and paint it with the color you need. This model of the bracket fully masks the entire LCD (it is useful if you use a transparent shell).
+  - **3.7V 125054 Lipo battery** (optional if you want to use only the DC jack)  (see the FAQs [here](FAQs.md) for more details).
+  - **Kitsch-Bent full silicone buttons** (optional).
+  - **1 Watt speaker** (optional if you want to use the original DMG speaker).  You can find (in the files of this project) the 3D model of the holder that you can use to take it in place without glue it to the housing shell.
+  - **wires and ph2.0 housing connectors** reported in the last sections of the BOM file.
+  - **5v 2A USB-C charger with the 2A cable USB adapter** (I suggest the right angle version) that can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/4000285082506.html).
+  - If you decide to use the **audio connector PCB** you can buy the 2.0 mm pitch headers from here [Link Aliexpress](https://www.aliexpress.com/item/4000694199194.html).
+  - I suggest to use **full silicone buttons from Kitsch-Bent** as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
+  - **Acrylic bars for the power LED (3mm)** can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/1005005626315979.html).
+    
 ## Boards compatibility
 
   - Audio board is not compatible with exisisting gameboy boards. Since in this version audio amplifier is on the mainboard the audio board is not compatible also with my previous gameboy. Also the new audio taller is not compatible with the previous gameboy version. In few words, don't mix production files of this realease with those of the previous gameboy release.
@@ -57,16 +82,6 @@ See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional inst
 
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
 
-**SUGGESTED ITEMS**: 
-
-  - 5v 2A USB-C charger with the 2A cable USB adapter (I suggest the right angle version) that can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/4000285082506.html).
-
-  - If you decide to use the audio connector PCB you can buy the 2.0 mm pitch headers from here [Link Aliexpress](https://www.aliexpress.com/item/4000694199194.html).
-
-  - I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
-
-  - Acrylic bars for the power LED (3mm) can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/1005005626315979.html).
-    
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without loosing the game in progress!!!
 
 ## RGB LEDs brightness
