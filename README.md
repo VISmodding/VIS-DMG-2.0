@@ -10,6 +10,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 - 1 watt audio speaker support
 - a cool design in which the front view of the console is totally covered by the PCBs 
 - mainboard and IPS board are 4-layer PCBs in which analog and digital lines are kept separated in order to minimize audio noise (separated analog/digital/power ground are kept in this version. They are connected only into a single point). Clearly audio noise cannot be completely removed since the CPU accept only an unique 5v line (without a separated analog input for the audio). Anyway, the low audio noise in this version probably is the cleaner audio you can have by using a lipo battery and the high volume provided by 1 watt speaker.
+See the begininng of the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) to see it in action.
 
 ## Warning: 
 
@@ -50,6 +51,7 @@ When mounting the IPS PCB into the shell keep in mind the suggestions shown in t
 
 ![image](images/IPS_PCB_wires_screw.png)
 
+See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
 **To be continued
 
@@ -63,7 +65,7 @@ When mounting the IPS PCB into the shell keep in mind the suggestions shown in t
 
   - I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
 
-  - Acrylic bars for the power LED can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/1005005626315979.html).
+  - Acrylic bars for the power LED (3mm) can be purchased here [Link Aliexpress](https://www.aliexpress.com/item/1005005626315979.html).
     
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without loosing the game in progress!!!
 
