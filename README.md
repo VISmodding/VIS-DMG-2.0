@@ -6,7 +6,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 - a built-in lipo power board with charger
 - analog power and button RGB LEDs
 - tactile switches
-- this version only support IPS screens and not the original screen with the original front PCB
+- this version only support IPS screens and not the original screen with the original front PCB (see the v1 version if you want to keep the original front PCB)
 - 1 watt audio speaker support
 - a cool design in which the front view of the console is totally covered by the PCBs 
 - mainboard and IPS board are 4-layer PCBs in which analog and digital lines are kept separated in order to minimize audio noise (separated analog/digital/power ground are kept in this version. They are connected only into a single point). Clearly audio noise cannot be completely removed since the CPU accept only an unique 5v line (without a separated analog input for the audio). Anyway, the low audio noise in this version probably is the cleaner audio you can have by using a lipo battery and the high volume provided by 1 watt speaker.
