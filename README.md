@@ -88,7 +88,7 @@ To avoid pressure on DPAD RGB LED please trim the shell as explained in the foll
 
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
-**PCB audio connector will be added when I will receive the audio connector PCB
+**PCB audio connector instructions will be added when I will receive the audio connector PCB**
 
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
 
