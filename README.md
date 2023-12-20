@@ -82,6 +82,10 @@ To regulate the contrast wheel position please referr to the following image.
 
 ![image](images/contrast_wheel_gap.png)
 
+To avoid pressure on DPAD RGB LEDs please trim the shell as explained in the following image.
+
+![image](images/remov_cyl.jpg)
+
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
 **PCB audio connector will be added when I will receive the audio connector PCB
