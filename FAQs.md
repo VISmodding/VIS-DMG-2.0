@@ -8,13 +8,13 @@ My front PCB can be used to replace the following IPS board used in the v4 and v
 
 ## What speaker can be used?
 
-You can use the original Gameboy speaker or 1 Watt 8 Ohm speaker (23 mm diameter) like the following one (**it must have + and - soldering points**)
+You can use the original Gameboy speaker or 1 Watt 8 Ohm speaker (23 mm diameter) like the following one (**it must have + and - soldering points**). I use speakers from Retrosix (or from Handheldlegend should be equivalent) and suggest you to avoid other speakers since some that I have tried have really a bad quality.
 
 ![image](images/1w_speaker.png)
 
 ## Can the gain of the speaker be controlled?
 
-Yes, on the mainboard, I use **R53=R56=10 kΩ for the original speaker** and **R53=R56=30 kΩ for the 1W speaker**. Hence, by increasing the value of R53 and R56, audio power increases; otherwise, it decreases.
+Yes, on the mainboard, I use **R53=R56=10 kΩ for the original speaker** and **R53=R56=30 kΩ for the 1W speaker**. Hence, by increasing the value of R53 and R56, audio power increases; otherwise, it decreases. For a totally clean audio in the silent parts of the games I suggest to use **R53=R56=25.5 kΩ for the 1W speaker** (audio from the speaker is still strong and completely clean).
 
 ## How much power does the power board provide?
 
