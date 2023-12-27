@@ -1,6 +1,6 @@
 # VIS Game Boy DMG 2.0
 
-![image](images/DMG2.0.png)
+![image](images/assembled_boards.jpg)
 
 This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Essentially this is a gameboy DMG having:
 - a built-in lipo power board with charger
@@ -11,10 +11,6 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 - a cool design in which the front view of the console is totally covered by the PCBs 
 - mainboard and IPS board are 4-layer PCBs in which analog and digital lines are kept separated in order to minimize audio noise (separated analog/digital/power ground are kept in this version. They are connected only into a single point). Clearly audio noise cannot be completely removed since the CPU accept only an unique 5v line (without a separated analog input for the audio). Anyway, the low audio noise in this version probably is the cleaner audio you can have by using a lipo battery and the high volume provided by 1 watt speaker.
 See the begininng of the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) to see it in action.
-
-## Warning: 
-
-**PCBs after some fixes are not tested yet. Until you see this warning means that I have not tested them yet.**
 
 ## Disclaimer
 
@@ -87,6 +83,8 @@ To avoid pressure on DPAD RGB LED please trim the shell as explained in the foll
 ![image](images/remov_cyl.jpg)
 
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
+
+![image](images/DMG2.0.png)
 
 **PCB audio connector instructions will be added when I will receive the audio connector PCB**
 
