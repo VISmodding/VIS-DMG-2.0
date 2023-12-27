@@ -1,6 +1,6 @@
 # VIS Game Boy DMG 2.0
 
-![image](images/assembled_boards.jpg)
+![image](images/DMG2.0.png)
 
 This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Essentially this is a gameboy DMG having:
 - a built-in lipo power board with charger
@@ -84,7 +84,7 @@ To avoid pressure on DPAD RGB LED please trim the shell as explained in the foll
 
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
-![image](images/DMG2.0.png)
+![image](images/assembled_boards.jpg)
 
 **PCB audio connector instructions will be added when I will receive the audio connector PCB**
 
