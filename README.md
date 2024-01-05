@@ -78,9 +78,17 @@ To regulate the contrast wheel position please referr to the following image.
 
 ![image](images/contrast_wheel_gap.png)
 
+Since I use the PCB LCD bracket, I installed mine as shown in the following image. 
+
+![image](images/wheel_install.png)
+
 To avoid pressure on DPAD RGB LED please trim the shell as explained in the following image.
 
 ![image](images/remov_cyl.jpg)
+
+If the audio connector is used I suggest to cut the speaker holder in the following way.
+
+![image](images/speaker_holder_cut.png)
 
 See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
 
