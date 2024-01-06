@@ -10,7 +10,7 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 - 1 watt audio speaker support
 - a cool design in which the front view of the console is totally covered by the PCBs 
 - mainboard and IPS board are 4-layer PCBs in which analog and digital lines are kept separated in order to minimize audio noise (separated analog/digital/power ground are kept in this version. They are connected only into a single point). Clearly audio noise cannot be completely removed since the CPU accept only an unique 5v line (without a separated analog input for the audio). Anyway, the low audio noise in this version probably is the cleaner audio you can have by using a lipo battery and the high volume provided by 1 watt speaker.
-See the begininng of the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) to see it in action.
+See the begininng of the youtube video [DMG v2](https://youtu.be/zv3Ng8fEEQI) to see it in action.
 
 ## Disclaimer
 
@@ -90,7 +90,7 @@ If the audio connector is used I suggest to cut the speaker holder in the follow
 
 ![image](images/speaker_holder_cut.png)
 
-See the youtube video [DMG v2](https://youtu.be/ocfiRfwsmjU) for additional instructions.
+See the youtube video [DMG v2](https://youtu.be/zv3Ng8fEEQI) for additional instructions.
 
 ![image](images/assembled_boards.jpg)
 
