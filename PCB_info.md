@@ -1,7 +1,11 @@
 # Production information
 
-Gerber files are located inside ProductionFiles in which you can find 1 PCB in each file or more than 1 PCB into a single file as breakable boards. 
+Gerber files are located inside ProductionFiles folder in which you can find 1 PCB in each file.
 I suggest ENIG surface finish for easier soldering job and longer PCB shelf life.
+Finally, all the PCBs are marked with the string "JLCJLCJLCJLC" in a position that will be covered by components or that will not be visible with the assembled Gameboy. If you order from JLCPCB, you can specify the location of the production file through this string, and they will replace "JLCJLCJLCJLC" with the production number in this location.
+In the following screenshot you find the way to do this.
+
+![image](images/JLCPCB_ordering.png)
 
 ## Mainboard PCB (4 layers PCB)
 
