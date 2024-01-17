@@ -60,6 +60,10 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 ![image](images/01_PB_popul.png)
 
+**IMPORTANT FIX** Solder a 100pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and set the zero frequency to 1 KHz (practically you will have extremely low noise).
+
+![image](images/feeedforward_cap.png)
+
 When you are sure on the power board installation you can proceed to populate all the boards. See in this case also the [setup video DMG v1](https://youtu.be/e4qCekoWYW4) to understand how solder the IPS wheele and the audio taller.
 
 I remember you that all the tactile switches must be soldered with the orientation shown in the following old image.
