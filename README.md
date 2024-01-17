@@ -94,6 +94,10 @@ If the audio connector is used I suggest to cut the speaker holder in the follow
 
 ![image](images/speaker_holder_cut.png)
 
+Finally, consider also the following suggestion.
+
+![image](images/conn_lock.png)
+
 See the youtube video [DMG v2](https://youtu.be/zv3Ng8fEEQI) for additional instructions.
 
 ![image](images/assembled_boards.jpg)
