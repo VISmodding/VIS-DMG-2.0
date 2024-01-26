@@ -61,7 +61,7 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 ![image](images/01_PB_popul.png)
 
-**IMPORTANT FIX** Solder a 200 pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and practically you will have extremely low noise. I ensure you that you never heard a so silent Gameboy (if you don't have a 200pF capacitor solder two 100pF capacitors in parallel on R70).
+**IMPORTANT FIX** Solder a 330 pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and practically you will have extremely low noise. I ensure you that you never heard a so silent Gameboy without the IPS kit connected (the IPS LCD at max brightness will introduce a little bit of noise. I will take a look directly on its driver board to see if it possible improve this thing).
 
 ![image](images/feeedforward_cap.png)
 
