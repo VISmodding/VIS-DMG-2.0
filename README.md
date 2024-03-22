@@ -63,7 +63,7 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 **IMPORTANT FIX for mainboard v2.0 (this fix, to lower the noise, will be added in coming soon new 2 layers version)** Solder a 220 pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and practically you will have extremely low noise. In addition, add 220uF cap as shown in the image. I ensure you that you never heard a so silent Gameboy.
 
-![image](images/feeedforward_cap_new.png)
+![image](images/feeedforward_cap_fix.png)
 
 When you are sure on the power board installation you can proceed to populate all the boards. See in this case also the [setup video DMG v1](https://youtu.be/e4qCekoWYW4) to understand how solder the IPS wheele and the audio taller.
 
