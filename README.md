@@ -65,7 +65,8 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 ![image](images/feeedforward_cap_fix.png)
 
-When you are sure on the power board installation you can proceed to populate all the boards. See in this case also the [setup video DMG v1](https://youtu.be/e4qCekoWYW4) to understand how solder the IPS wheele and the audio taller.
+When you are sure on the power board installation you can proceed to populate all the boards. If you want to implement the so called "bass mod" you have to use 10 uF caps for C52 and C53 while the 1 uF caps reported in the BOM are for the normal gameboy bass. I personally like the better sound given by the bass mod.
+See in this case also the [setup video DMG v1](https://youtu.be/e4qCekoWYW4) to understand how solder the IPS wheele and the audio taller.
 
 I remember you that all the tactile switches must be soldered with the orientation shown in the following old image.
 
