@@ -61,7 +61,7 @@ Start by soldering firstly the U3 boost Ic and check solder continuity/no bridge
 
 ![image](images/01_PB_popul.png)
 
-**IMPORTANT FIX for mainboard v2.0 (this fix, to lower the noise, will be added in coming soon new 2 layers version)** Solder a 220 pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and practically you will have extremely low noise. In addition, add 200uF cap in parallel to C74. I ensure you that you never heard a so silent Gameboy.
+**IMPORTANT FIX for mainboard v2.0 (this fix, to lower the noise, will be added in coming soon new 2 layers version)** Solder a 220 pF capacitor in parallel R70 as shown in the following image. This capacitor improves the loop stability of the boost U3 and practically you will have extremely low noise. In addition, add 220uF cap as shown in the image. I ensure you that you never heard a so silent Gameboy.
 
 ![image](images/feeedforward_cap_new.png)
 
